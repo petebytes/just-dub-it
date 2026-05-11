@@ -38,17 +38,6 @@ By leveraging the rich generative prior of the audio-visual model, our approach 
 
 ---
 
-## 🎥 Results
-
-| Input | Output |
-|-------|--------|
-| <video src="assets/Zootopia_source.mp4" width="320" controls> | <video src="assets/Zootopia_ours.mp4" width="320" controls> |
-| <video src="assets/Hans_Landa_source.mp4" width="320" controls> | <video src="assets/Hans_Landa_ours.mp4" width="320" controls> |
-
-See more results on our [project page](https://justdubit.github.io).
-
----
-
 ## 🚀 Quick Links
 
 | Resource | Description |
