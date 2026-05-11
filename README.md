@@ -1,4 +1,4 @@
-> ⚠️ **Notice:** This repo is now archived, please move to our [offical repository](https://github.com/Lightricks/LTX-2/tree/main/packages/ltx-pipelines#5b-lipdubpipeline) and checkout the latest LTX2.3 support on lipdub.
+> ⚠️ **Notice:** This repo is now archived, please move to our [offical repository](https://github.com/Lightricks/LTX-2/tree/main/packages/ltx-pipelines#10-lipdubpipeline) and checkout the latest LTX2.3 support on lipdub.
 
 # JustDubit: Video Dubbing via Joint Audio-Visual Diffusion
 
@@ -16,7 +16,7 @@ _Tel Aviv University · Lightricks_
 \* Equal contribution · † Work done during visit at Tel Aviv University and internship at Lightricks
 
 ## 📰 News
-- [2026/05/11] 🔥 JustDubIt trained on LTX2.3 is released! check out our [offical repo](https://github.com/Lightricks/LTX-2/tree/main/packages/ltx-pipelines#5b-lipdubpipeline).
+- [2026/05/11] 🔥 JustDubIt trained on LTX2.3 is released! check out our [offical repo](https://github.com/Lightricks/LTX-2/tree/main/packages/ltx-pipelines#10-lipdubpipeline).
 - [2026/05/11] 🔥 JustDubIt is accepted to SIGGRAPH 2026! See you in LA!
 - [2026/02/10] 🔥 Code, checkpoints, and data released
 - [2026/01/29] 🔥 Tech report released
